@@ -2,6 +2,7 @@
 
 public class Primer {
 	int a = 0;
+	String str = "";
 	public int oddOrPos(int[] x) {
 		int count = 0;
 		for (int i = 0; i < x.length + 100; i++) {
